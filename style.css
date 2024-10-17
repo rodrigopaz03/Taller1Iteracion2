@@ -1,0 +1,58 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contenido {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 30px;
+    font-size: 1.2rem;
+}
+
+.setlist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.setlist li {
+    font-size: 1.2rem;
+     margin-top: 30px;
+    border-radius: 30px;
+}
+
+.formulario {
+    background-color: #dcdcdc;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.formulario input {
+    margin-bottom: 10px;
+}
+
+.imagen {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.lista-container {
+    background-color: #dcdcdc;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.imagen {
+    width: 100%;
+    height: 300px; 
+    object-fit: cover;
+}
